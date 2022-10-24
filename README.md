@@ -28,3 +28,7 @@ pip3 freeze > requirements.txt
 ```
 python manage.py runserver
 ```
+## Create App
+```
+python manage.py startapp appname
+```
