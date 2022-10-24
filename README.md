@@ -15,3 +15,7 @@ source venv/bin/activate
 ```
 python -m pip install django
 ```
+## runserver
+```
+python manage.py runserver
+```
