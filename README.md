@@ -32,3 +32,7 @@ python manage.py runserver
 ```
 python manage.py startapp appname
 ```
+> Create Template
+> Write View
+> Create URL
+> Write app name in INSTALLED_APPS in "settings.py" file
