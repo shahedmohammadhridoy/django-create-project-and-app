@@ -20,6 +20,10 @@ venv/Scripts/activate
 ```
 python -m pip install django
 ```
+## Requirements.txt
+```
+pip3 freeze > requirements.txt
+```
 ## runserver
 ```
 python manage.py runserver
