@@ -11,3 +11,7 @@ python -m venv venv
 ```
 source venv/bin/activate
 ```
+## install django in venv
+```
+python -m pip install django
+```
