@@ -14,7 +14,7 @@ source venv/bin/activate
 ```
 ### windows
 ```
-> .\venv\Scripts\activate
+venv/Scripts/activate
 ```
 ## install django in venv
 ```
