@@ -8,8 +8,13 @@ django-admin startproject projectname
 python -m venv venv
 ```
 ## activate virtual environment
+### linux
 ```
 source venv/bin/activate
+```
+### windows
+```
+> .\venv\Scripts\activate
 ```
 ## install django in venv
 ```
