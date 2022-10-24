@@ -7,3 +7,7 @@ django-admin startproject projectname
 ```
 python -m venv venv
 ```
+## activate virtual environment
+```
+source venv/bin/activate
+```
