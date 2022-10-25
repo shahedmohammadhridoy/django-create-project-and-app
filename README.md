@@ -36,3 +36,8 @@ python manage.py startapp appname
 * Create Template
 * Write View
 * Create URL
+
+Run Shell
+```
+python manage.py shell
+```
