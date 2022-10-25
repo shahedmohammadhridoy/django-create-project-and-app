@@ -1,7 +1,7 @@
 # django-create-project-and-app
 ## create project
 ```
-django-admin startproject projectname
+django-admin startproject PROJECTNAME
 ```
 ## create virtual environment
 ```
@@ -30,7 +30,7 @@ python manage.py runserver
 ```
 ## Create App
 ```
-python manage.py startapp appname
+python manage.py startapp APPNAME
 ```
 * Write app name in INSTALLED_APPS in "settings.py" file
 * Create Template
