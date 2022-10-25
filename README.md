@@ -41,3 +41,7 @@ python manage.py startapp appname
 ```
 python manage.py shell
 ```
+## Import model in shell
+```
+from APPNAME.models import CLASSNAME
+```
