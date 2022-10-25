@@ -37,7 +37,7 @@ python manage.py startapp appname
 * Write View
 * Create URL
 
-Run Shell
+## Run Shell
 ```
 python manage.py shell
 ```
