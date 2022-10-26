@@ -29,10 +29,6 @@ pip3 freeze > requirements.txt
 ```
 pip install -r requirements.txt
 ```
-## Run Server
-```
-python manage.py runserver
-```
 ## Create App
 ```
 python manage.py startapp APPNAME
@@ -41,14 +37,17 @@ python manage.py startapp APPNAME
 * Create Template
 * Write View
 * Create URL
-
-## Run Shell
-```
-python manage.py shell
-```
 ## Import model in shell
 ```
 from APPNAME.models import CLASSNAME
+```
+## Run Server
+```
+python manage.py runserver
+```
+## Run Shell
+```
+python manage.py shell
 ```
 ## Create Super User
 ```
