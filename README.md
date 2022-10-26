@@ -29,7 +29,7 @@ pip3 freeze > requirements.txt
 ```
 pip install -r requirements.txt
 ```
-## runserver
+## Run Server
 ```
 python manage.py runserver
 ```
