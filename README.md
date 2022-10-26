@@ -41,15 +41,16 @@ python manage.py startapp APPNAME
 ```
 from APPNAME.models import CLASSNAME
 ```
-## Run Server
+## manage.py
+### Run Server
 ```
 python manage.py runserver
 ```
-## Run Shell
+### Run Shell
 ```
 python manage.py shell
 ```
-## Create Super User
+### Create Super User
 ```
 python manage.py createsuperuser
 ```
