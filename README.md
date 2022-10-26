@@ -47,5 +47,5 @@ from APPNAME.models import CLASSNAME
 ```
 ## Create Super User
 ```
-python manage.py createsupreruser
+python manage.py createsuperuser
 ```
