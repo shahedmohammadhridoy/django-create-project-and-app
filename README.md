@@ -20,11 +20,12 @@ venv/Scripts/activate
 ```
 python -m pip install django
 ```
-## Freeze Requirements
+## Requirements
+### Freeze
 ```
 pip3 freeze > requirements.txt
 ```
-## Install Requirements
+### Install
 ```
 pip install -r requirements.txt
 ```
