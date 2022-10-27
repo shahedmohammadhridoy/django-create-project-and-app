@@ -16,9 +16,13 @@ source venv/bin/activate
 ```
 venv/Scripts/activate
 ```
-## install django in venv
+## install django
 ```
 python -m pip install django
+```
+## install flask
+```
+pip install Flask
 ```
 ## Requirements
 ### Freeze
