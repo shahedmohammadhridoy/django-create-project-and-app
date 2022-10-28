@@ -58,3 +58,7 @@ python manage.py shell
 ```
 python manage.py createsuperuser
 ```
+## Bootstrap 4 CDN
+```
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+ ```
